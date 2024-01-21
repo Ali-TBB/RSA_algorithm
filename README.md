@@ -35,13 +35,13 @@ To use this script, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/rsa-decryption.git
+    git clone https://github.com/Ali-TBB/RSA_algorithm.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd rsa-decryption
+    cd RSA_algorithm
     ```
 
 ## Example
